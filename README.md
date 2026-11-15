@@ -1,2 +1,0 @@
-# Ultimate-Pong
-Pong game
